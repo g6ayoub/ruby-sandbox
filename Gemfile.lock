@@ -45,6 +45,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   awesome_print
+  minitest
   pry-byebug
 
 BUNDLED WITH
